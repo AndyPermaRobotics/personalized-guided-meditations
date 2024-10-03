@@ -40,7 +40,7 @@ def generate_audio(text):
     return tmpfile.name
 
 
-st.title("Erstelle dir deine eigene geleitete Meditation")
+st.title("Erstelle dir deine eigene geleitete Meditation 🧘🧘‍♂️")
 
 meditation_prompt = st.text_input("Was für eine Meditation möchtest du erstellen?")
 
